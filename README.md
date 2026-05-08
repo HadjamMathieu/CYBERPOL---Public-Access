@@ -10,15 +10,9 @@ CYBERPOL permet aux victimes et témoins de cyberharcèlement de signaler des co
 
 ## Aperçu
 
-<!-- Ajoutez vos captures d'écran ici -->
-<!-- Exemple :
-![Page d'accueil](screenshots/accueil.png)
-![Dashboard](screenshots/dashboard.png)
-![Formulaire de signalement](screenshots/signalement.png)
--->
-
-> *Captures d'écran à venir*
-
+  ![Page d'accueil](screenshots/accueil.png)
+  ![Dashboard](screenshots/dashboard.png)
+  ![Formulaire de signalement](screenshots/signalement.png)
 ---
 
 ## Fonctionnalités
@@ -38,8 +32,6 @@ CYBERPOL permet aux victimes et témoins de cyberharcèlement de signaler des co
 |---|---|
 | Backend | PHP 8.x |
 | Base de données | MySQL |
-| Frontend | HTML, CSS, JavaScript (vanilla) |
-| Emails | PHPMailer + Gmail SMTP |
 | Hébergement | Serveur dédié |
 
 ---
