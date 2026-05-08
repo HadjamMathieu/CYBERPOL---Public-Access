@@ -1,48 +1,49 @@
 # CYBERPOL
 
-**Plateforme de signalement de comportements malveillants en ligne.**
+**Online platform for reporting malicious behavior.**
 
-CYBERPOL permet aux victimes et témoins de cyberharcèlement de signaler des comportements malveillants de façon sécurisée, conforme au RGPD, et de suivre l'évolution de leurs signalements.
+CYBERPOL allows victims and witnesses of cyberbullying to report malicious behavior in a secure, GDPR-compliant way, and to track the progress of their reports.
 
 🌐 **[cyberpol-france.fr](https://cyberpol-france.fr)**
 
 ---
 
-## Aperçu
+## Preview
 
-  ![Page d'accueil](screenshots/accueil.png)
-  ![Dashboard](screenshots/dashboard.png)
-  ![Formulaire de signalement](screenshots/signalement.png)
----
-
-## Fonctionnalités
-
-- **Signalement** — Dépôt de signalements avec pièces jointes (images, vidéos, PDF)
-- **Suivi** — Tableau de bord personnel pour suivre l'état de ses signalements
-- **Espace admin** — Gestion et traitement des signalements par les modérateurs
-- **Accès pro** — Espace dédié aux professionnels (associations, éducateurs...)
-- **Sécurité** — Authentification, CSRF, chiffrement, conformité RGPD
-- **Thème** — Mode clair / sombre
+![Home](screenshots/accueil.png)
+![Dashboard](screenshots/dashboard.png)
+![Report form](screenshots/signalement.png)
 
 ---
 
-## Stack technique
+## Features
 
-| Couche | Technologie |
+- **Reporting** — Submit reports with attachments (images, videos, PDF)
+- **Tracking** — Personal dashboard to follow the status of your reports
+- **Admin panel** — Management and processing of reports by moderators
+- **Pro access** — Dedicated space for professionals (associations, educators...)
+- **Security** — Authentication, CSRF protection, encryption, GDPR compliance
+- **Theme** — Light / dark mode
+
+---
+
+## Tech stack
+
+| Layer | Technology |
 |---|---|
 | Backend | PHP 8.x |
-| Base de données | MySQL |
-| Hébergement | Serveur dédié |
+| Database | MySQL |
+| Hosting | Dedicated server |
 
 ---
 
-## Statut
+## Status
 
-![Statut](https://img.shields.io/badge/statut-en%20développement-orange)
-![Licence](https://img.shields.io/badge/licence-privée-red)
+![Status](https://img.shields.io/badge/status-in%20development-orange)
+![License](https://img.shields.io/badge/license-private-red)
 
 ---
 
 ## Contact
 
-Pour toute question : [cyberpolfrance@gmail.com](mailto:cyberpolfrance@gmail.com)
+For any inquiries: [cyberpolfrance@gmail.com](mailto:cyberpolfrance@gmail.com)
